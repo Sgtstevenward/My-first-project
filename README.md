@@ -1,2 +1,2 @@
-# My-first-project
-This is my first project 
+# E-Tradegrowth
+# we make life easier.
